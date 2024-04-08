@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Presentation", "1 - Presentation", "{FF26398B-CC61-4AAE-8ED1-D769DD88BB6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VinciParterns.Presentation.API", "..\VinciParterns.Presentation.API\VinciParterns.Presentation.API.csproj", "{5711B67E-3492-4D42-BD7F-5A3B1C75835F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Application", "2 - Application", "{428A96F4-9FEB-4139-80F3-04172D2B8672}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Infra", "3 - Infra", "{5834E0D1-BF6E-45F5-BADE-D2E8DBA3F7C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5711B67E-3492-4D42-BD7F-5A3B1C75835F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5711B67E-3492-4D42-BD7F-5A3B1C75835F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5711B67E-3492-4D42-BD7F-5A3B1C75835F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5711B67E-3492-4D42-BD7F-5A3B1C75835F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5711B67E-3492-4D42-BD7F-5A3B1C75835F} = {FF26398B-CC61-4AAE-8ED1-D769DD88BB6B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C7BA5DE-F5A8-42E8-9E94-4E01BDD63A64}
+	EndGlobalSection
+EndGlobal
