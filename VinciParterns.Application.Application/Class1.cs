@@ -1,6 +1,6 @@
 ﻿namespace VinciParterns.Application.Application
 {
-    public class Class1
+    public class teste
     {
 
     }
